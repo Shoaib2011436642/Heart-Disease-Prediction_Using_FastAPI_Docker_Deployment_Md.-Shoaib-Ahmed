@@ -3,13 +3,13 @@
 
 ### **Live Deployment**
 Access the live app here:  
-[**Live Deployment on Render**](https://heart-disease-prediction-md-shoaib-ahmed.onrender.com/docs)
+https://heart-disease-prediction-md-shoaib-ahmed.onrender.com/docs
 
 ---
 
 ### **Project Overview**
 
-This project uses **FastAPI** to build a web API for predicting heart disease based on health metrics such as age, cholesterol levels, and blood pressure. The model is deployed using **Docker** and **Render** for easy scaling and deployment.
+This project aims to develop a Heart Disease Prediction System trained using Machine Learning Model **Logistic Regression** and **FastAPI** for predicting heart disease based on health metrics such as age, cholesterol levels, and blood pressure. The model is deployed using **Docker** and **Render** for easy scaling and deployment.
 
 ---
 
